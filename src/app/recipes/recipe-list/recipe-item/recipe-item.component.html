@@ -1,0 +1,10 @@
+<a (click)="onRecipeSelect()" class="card p-2 d-flex flex-row justify-content-between text-decoration-none my-2">
+
+    <div>
+        <h4 class="list-group-item-heading">{{recipe.name}}</h4>
+        <p class="list-group-item-text">{{recipe.description}}</p>
+    </div>
+    <img [src]="recipe.imgPath" class="img-responsive" style="width: 30%; mix-blend-mode:multiply; object-fit: contain;"
+        alt="">
+
+</a>
