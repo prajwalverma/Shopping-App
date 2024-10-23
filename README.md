@@ -21,15 +21,15 @@ Next, clone the forked repository to your local machine:
 `git clone https://github.com/arya2004/leetcode-daily-october-hacktoberfest-2024.git`
 
 3. Navigate to the Correct Directory
-Go to the solutions/ folder and navigate to the directory corresponding to the day
+Go to the Shopping-App/ folder and navigate to the directory corresponding to the day
 you're contributing to:
 
-`cd solutions/day01`
+`cd Shopping-App`
 
 4. Add Your Solution
-You can add your solution in any language (e.g., Python, Java, C++, etc.). Here's an example for Python:
+You can add your solution in any language (e.g., angular, Java, C++, etc.). Here's an example for Python:
 
-`touch solution_python.py`
+`app.module.ts`
 
 Don't forget to add comments to explain your solution and make it easier for others to understand.
 
